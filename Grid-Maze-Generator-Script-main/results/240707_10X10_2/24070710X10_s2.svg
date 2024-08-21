@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="1020" height="1020" viewBox="-10 -10 1020 1020">
+<defs>
+<style type="text/css"><![CDATA[
+line {
+    stroke: #000000;
+    stroke-linecap: square;
+    stroke-width: 4;
+}
+]]>
+.small { font: bold 20.0px sans-serif;
+         fill: lightgray; }}
+</style>
+
+</defs>
+<rect x="0.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="0.0" y="100.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="0.0" y="200.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="0.0" y="300.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="0.0" y="400.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="0.0" y="500.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="0.0" y="600.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="0.0" y="700.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="0.0" y="800.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="0.0" y="900.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="100.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="100.0" y="100.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="100.0" y="200.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="100.0" y="300.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="100.0" y="400.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="100.0" y="500.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="100.0" y="600.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="100.0" y="700.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="100.0" y="800.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="100.0" y="900.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="200.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="200.0" y="100.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="200.0" y="200.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="200.0" y="300.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="200.0" y="400.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="200.0" y="500.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="200.0" y="600.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="200.0" y="700.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="200.0" y="800.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="200.0" y="900.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="300.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="300.0" y="100.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="300.0" y="200.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="300.0" y="300.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="300.0" y="400.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="300.0" y="500.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="300.0" y="600.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="300.0" y="700.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="300.0" y="800.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="300.0" y="900.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="400.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="400.0" y="100.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="400.0" y="200.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="400.0" y="300.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="400.0" y="400.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="400.0" y="500.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="400.0" y="600.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="400.0" y="700.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="400.0" y="800.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="400.0" y="900.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="500.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="500.0" y="100.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="500.0" y="200.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="500.0" y="300.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="500.0" y="400.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="500.0" y="500.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="500.0" y="600.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="500.0" y="700.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="500.0" y="800.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="500.0" y="900.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="600.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="600.0" y="100.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="600.0" y="200.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="600.0" y="300.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="600.0" y="400.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="600.0" y="500.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="600.0" y="600.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="600.0" y="700.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="600.0" y="800.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="600.0" y="900.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="700.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="700.0" y="100.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="700.0" y="200.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="700.0" y="300.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="700.0" y="400.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="700.0" y="500.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="700.0" y="600.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="700.0" y="700.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="700.0" y="800.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="700.0" y="900.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="800.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="800.0" y="100.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="800.0" y="200.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="800.0" y="300.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="800.0" y="400.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="800.0" y="500.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="800.0" y="600.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="800.0" y="700.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="800.0" y="800.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="800.0" y="900.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="900.0" y="0.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="900.0" y="100.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="900.0" y="200.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="900.0" y="300.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="900.0" y="400.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="900.0" y="500.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="900.0" y="600.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="900.0" y="700.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="900.0" y="800.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+<rect x="900.0" y="900.0" width="100.0" height="100.0" fill="none" stroke="gray" stroke-width="1"/>
+
+<text x="10.0" y="30.0" class="small">S0</text>
+<text x="10.0" y="130.0" class="small">S10</text>
+<text x="10.0" y="229.99999999999997" class="small">S20</text>
+<text x="10.0" y="330.0" class="small">S30</text>
+<text x="10.0" y="430.0" class="small">S40</text>
+<text x="10.0" y="530.0" class="small">S50</text>
+<text x="10.0" y="630.0" class="small">S60</text>
+<text x="10.0" y="730.0" class="small">S70</text>
+<text x="10.0" y="830.0000000000001" class="small">S80</text>
+<text x="10.0" y="930.0000000000001" class="small">S90</text>
+<text x="110.00000000000001" y="30.0" class="small">S1</text>
+<text x="110.00000000000001" y="130.0" class="small">S11</text>
+<text x="110.00000000000001" y="229.99999999999997" class="small">S21</text>
+<text x="110.00000000000001" y="330.0" class="small">S31</text>
+<text x="110.00000000000001" y="430.0" class="small">S41</text>
+<text x="110.00000000000001" y="530.0" class="small">S51</text>
+<text x="110.00000000000001" y="630.0" class="small">S61</text>
+<text x="110.00000000000001" y="730.0" class="small">S71</text>
+<text x="110.00000000000001" y="830.0000000000001" class="small">S81</text>
+<text x="110.00000000000001" y="930.0000000000001" class="small">S91</text>
+<text x="210.0" y="30.0" class="small">S2</text>
+<text x="210.0" y="130.0" class="small">S12</text>
+<text x="210.0" y="229.99999999999997" class="small">S22</text>
+<text x="210.0" y="330.0" class="small">S32</text>
+<text x="210.0" y="430.0" class="small">S42</text>
+<text x="210.0" y="530.0" class="small">S52</text>
+<text x="210.0" y="630.0" class="small">S62</text>
+<text x="210.0" y="730.0" class="small">S72</text>
+<text x="210.0" y="830.0000000000001" class="small">S82</text>
+<text x="210.0" y="930.0000000000001" class="small">S92</text>
+<text x="310.0" y="30.0" class="small">S3</text>
+<text x="310.0" y="130.0" class="small">S13</text>
+<text x="310.0" y="229.99999999999997" class="small">S23</text>
+<text x="310.0" y="330.0" class="small">S33</text>
+<text x="310.0" y="430.0" class="small">S43</text>
+<text x="310.0" y="530.0" class="small">S53</text>
+<text x="310.0" y="630.0" class="small">S63</text>
+<text x="310.0" y="730.0" class="small">S73</text>
+<text x="310.0" y="830.0000000000001" class="small">S83</text>
+<text x="310.0" y="930.0000000000001" class="small">S93</text>
+<text x="409.99999999999994" y="30.0" class="small">S4</text>
+<text x="409.99999999999994" y="130.0" class="small">S14</text>
+<text x="409.99999999999994" y="229.99999999999997" class="small">S24</text>
+<text x="409.99999999999994" y="330.0" class="small">S34</text>
+<text x="409.99999999999994" y="430.0" class="small">S44</text>
+<text x="409.99999999999994" y="530.0" class="small">S54</text>
+<text x="409.99999999999994" y="630.0" class="small">S64</text>
+<text x="409.99999999999994" y="730.0" class="small">S74</text>
+<text x="409.99999999999994" y="830.0000000000001" class="small">S84</text>
+<text x="409.99999999999994" y="930.0000000000001" class="small">S94</text>
+<text x="509.99999999999994" y="30.0" class="small">S5</text>
+<text x="509.99999999999994" y="130.0" class="small">S15</text>
+<text x="509.99999999999994" y="229.99999999999997" class="small">S25</text>
+<text x="509.99999999999994" y="330.0" class="small">S35</text>
+<text x="509.99999999999994" y="430.0" class="small">S45</text>
+<text x="509.99999999999994" y="530.0" class="small">S55</text>
+<text x="509.99999999999994" y="630.0" class="small">S65</text>
+<text x="509.99999999999994" y="730.0" class="small">S75</text>
+<text x="509.99999999999994" y="830.0000000000001" class="small">S85</text>
+<text x="509.99999999999994" y="930.0000000000001" class="small">S95</text>
+<text x="610.0" y="30.0" class="small">S6</text>
+<text x="610.0" y="130.0" class="small">S16</text>
+<text x="610.0" y="229.99999999999997" class="small">S26</text>
+<text x="610.0" y="330.0" class="small">S36</text>
+<text x="610.0" y="430.0" class="small">S46</text>
+<text x="610.0" y="530.0" class="small">S56</text>
+<text x="610.0" y="630.0" class="small">S66</text>
+<text x="610.0" y="730.0" class="small">S76</text>
+<text x="610.0" y="830.0000000000001" class="small">S86</text>
+<text x="610.0" y="930.0000000000001" class="small">S96</text>
+<text x="710.0" y="30.0" class="small">S7</text>
+<text x="710.0" y="130.0" class="small">S17</text>
+<text x="710.0" y="229.99999999999997" class="small">S27</text>
+<text x="710.0" y="330.0" class="small">S37</text>
+<text x="710.0" y="430.0" class="small">S47</text>
+<text x="710.0" y="530.0" class="small">S57</text>
+<text x="710.0" y="630.0" class="small">S67</text>
+<text x="710.0" y="730.0" class="small">S77</text>
+<text x="710.0" y="830.0000000000001" class="small">S87</text>
+<text x="710.0" y="930.0000000000001" class="small">S97</text>
+<text x="810.0" y="30.0" class="small">S8</text>
+<text x="810.0" y="130.0" class="small">S18</text>
+<text x="810.0" y="229.99999999999997" class="small">S28</text>
+<text x="810.0" y="330.0" class="small">S38</text>
+<text x="810.0" y="430.0" class="small">S48</text>
+<text x="810.0" y="530.0" class="small">S58</text>
+<text x="810.0" y="630.0" class="small">S68</text>
+<text x="810.0" y="730.0" class="small">S78</text>
+<text x="810.0" y="830.0000000000001" class="small">S88</text>
+<text x="810.0" y="930.0000000000001" class="small">S98</text>
+<text x="910.0" y="30.0" class="small">S9</text>
+<text x="910.0" y="130.0" class="small">S19</text>
+<text x="910.0" y="229.99999999999997" class="small">S29</text>
+<text x="910.0" y="330.0" class="small">S39</text>
+<text x="910.0" y="430.0" class="small">S49</text>
+<text x="910.0" y="530.0" class="small">S59</text>
+<text x="910.0" y="630.0" class="small">S69</text>
+<text x="910.0" y="730.0" class="small">S79</text>
+<text x="910.0" y="830.0000000000001" class="small">S89</text>
+<text x="910.0" y="930.0000000000001" class="small">S99</text>
+
+<line x1="100.0" y1="200.0" x2="100.0" y2="300.0"/>
+<line x1="100.0" y1="300.0" x2="100.0" y2="400.0"/>
+<line x1="100.0" y1="400.0" x2="100.0" y2="500.0"/>
+<line x1="100.0" y1="500.0" x2="100.0" y2="600.0"/>
+<line x1="0.0" y1="700.0" x2="100.0" y2="700.0"/>
+<line x1="100.0" y1="800.0" x2="100.0" y2="900.0"/>
+<line x1="0.0" y1="1000.0" x2="100.0" y2="1000.0"/>
+<line x1="100.0" y1="900.0" x2="100.0" y2="1000.0"/>
+<line x1="100.0" y1="100.0" x2="200.0" y2="100.0"/>
+<line x1="200.0" y1="0.0" x2="200.0" y2="100.0"/>
+<line x1="200.0" y1="100.0" x2="200.0" y2="200.0"/>
+<line x1="200.0" y1="200.0" x2="200.0" y2="300.0"/>
+<line x1="200.0" y1="300.0" x2="200.0" y2="400.0"/>
+<line x1="100.0" y1="500.0" x2="200.0" y2="500.0"/>
+<line x1="100.0" y1="600.0" x2="200.0" y2="600.0"/>
+<line x1="100.0" y1="700.0" x2="200.0" y2="700.0"/>
+<line x1="200.0" y1="800.0" x2="200.0" y2="900.0"/>
+<line x1="100.0" y1="1000.0" x2="200.0" y2="1000.0"/>
+<line x1="300.0" y1="100.0" x2="300.0" y2="200.0"/>
+<line x1="200.0" y1="300.0" x2="300.0" y2="300.0"/>
+<line x1="200.0" y1="500.0" x2="300.0" y2="500.0"/>
+<line x1="300.0" y1="400.0" x2="300.0" y2="500.0"/>
+<line x1="200.0" y1="700.0" x2="300.0" y2="700.0"/>
+<line x1="300.0" y1="600.0" x2="300.0" y2="700.0"/>
+<line x1="300.0" y1="700.0" x2="300.0" y2="800.0"/>
+<line x1="200.0" y1="900.0" x2="300.0" y2="900.0"/>
+<line x1="300.0" y1="800.0" x2="300.0" y2="900.0"/>
+<line x1="200.0" y1="1000.0" x2="300.0" y2="1000.0"/>
+<line x1="300.0" y1="100.0" x2="400.0" y2="100.0"/>
+<line x1="300.0" y1="200.0" x2="400.0" y2="200.0"/>
+<line x1="300.0" y1="300.0" x2="400.0" y2="300.0"/>
+<line x1="400.0" y1="300.0" x2="400.0" y2="400.0"/>
+<line x1="300.0" y1="500.0" x2="400.0" y2="500.0"/>
+<line x1="300.0" y1="600.0" x2="400.0" y2="600.0"/>
+<line x1="400.0" y1="700.0" x2="400.0" y2="800.0"/>
+<line x1="400.0" y1="800.0" x2="400.0" y2="900.0"/>
+<line x1="300.0" y1="1000.0" x2="400.0" y2="1000.0"/>
+<line x1="400.0" y1="100.0" x2="500.0" y2="100.0"/>
+<line x1="500.0" y1="100.0" x2="500.0" y2="200.0"/>
+<line x1="500.0" y1="200.0" x2="500.0" y2="300.0"/>
+<line x1="500.0" y1="300.0" x2="500.0" y2="400.0"/>
+<line x1="400.0" y1="500.0" x2="500.0" y2="500.0"/>
+<line x1="500.0" y1="400.0" x2="500.0" y2="500.0"/>
+<line x1="400.0" y1="700.0" x2="500.0" y2="700.0"/>
+<line x1="500.0" y1="600.0" x2="500.0" y2="700.0"/>
+<line x1="500.0" y1="700.0" x2="500.0" y2="800.0"/>
+<line x1="500.0" y1="800.0" x2="500.0" y2="900.0"/>
+<line x1="400.0" y1="1000.0" x2="500.0" y2="1000.0"/>
+<line x1="500.0" y1="100.0" x2="600.0" y2="100.0"/>
+<line x1="500.0" y1="300.0" x2="600.0" y2="300.0"/>
+<line x1="500.0" y1="500.0" x2="600.0" y2="500.0"/>
+<line x1="500.0" y1="600.0" x2="600.0" y2="600.0"/>
+<line x1="600.0" y1="700.0" x2="600.0" y2="800.0"/>
+<line x1="500.0" y1="900.0" x2="600.0" y2="900.0"/>
+<line x1="500.0" y1="1000.0" x2="600.0" y2="1000.0"/>
+<line x1="600.0" y1="900.0" x2="600.0" y2="1000.0"/>
+<line x1="600.0" y1="100.0" x2="700.0" y2="100.0"/>
+<line x1="600.0" y1="200.0" x2="700.0" y2="200.0"/>
+<line x1="600.0" y1="300.0" x2="700.0" y2="300.0"/>
+<line x1="600.0" y1="400.0" x2="700.0" y2="400.0"/>
+<line x1="600.0" y1="500.0" x2="700.0" y2="500.0"/>
+<line x1="600.0" y1="600.0" x2="700.0" y2="600.0"/>
+<line x1="700.0" y1="500.0" x2="700.0" y2="600.0"/>
+<line x1="600.0" y1="700.0" x2="700.0" y2="700.0"/>
+<line x1="700.0" y1="600.0" x2="700.0" y2="700.0"/>
+<line x1="600.0" y1="800.0" x2="700.0" y2="800.0"/>
+<line x1="700.0" y1="800.0" x2="700.0" y2="900.0"/>
+<line x1="600.0" y1="1000.0" x2="700.0" y2="1000.0"/>
+<line x1="700.0" y1="200.0" x2="800.0" y2="200.0"/>
+<line x1="800.0" y1="100.0" x2="800.0" y2="200.0"/>
+<line x1="800.0" y1="200.0" x2="800.0" y2="300.0"/>
+<line x1="700.0" y1="400.0" x2="800.0" y2="400.0"/>
+<line x1="800.0" y1="300.0" x2="800.0" y2="400.0"/>
+<line x1="800.0" y1="400.0" x2="800.0" y2="500.0"/>
+<line x1="700.0" y1="600.0" x2="800.0" y2="600.0"/>
+<line x1="800.0" y1="700.0" x2="800.0" y2="800.0"/>
+<line x1="800.0" y1="800.0" x2="800.0" y2="900.0"/>
+<line x1="700.0" y1="1000.0" x2="800.0" y2="1000.0"/>
+<line x1="800.0" y1="900.0" x2="800.0" y2="1000.0"/>
+<line x1="900.0" y1="0.0" x2="900.0" y2="100.0"/>
+<line x1="800.0" y1="200.0" x2="900.0" y2="200.0"/>
+<line x1="900.0" y1="200.0" x2="900.0" y2="300.0"/>
+<line x1="800.0" y1="500.0" x2="900.0" y2="500.0"/>
+<line x1="900.0" y1="500.0" x2="900.0" y2="600.0"/>
+<line x1="800.0" y1="700.0" x2="900.0" y2="700.0"/>
+<line x1="900.0" y1="600.0" x2="900.0" y2="700.0"/>
+<line x1="900.0" y1="700.0" x2="900.0" y2="800.0"/>
+<line x1="800.0" y1="1000.0" x2="900.0" y2="1000.0"/>
+<line x1="1000.0" y1="0.0" x2="1000.0" y2="100.0"/>
+<line x1="1000.0" y1="100.0" x2="1000.0" y2="200.0"/>
+<line x1="1000.0" y1="200.0" x2="1000.0" y2="300.0"/>
+<line x1="900.0" y1="400.0" x2="1000.0" y2="400.0"/>
+<line x1="1000.0" y1="300.0" x2="1000.0" y2="400.0"/>
+<line x1="1000.0" y1="400.0" x2="1000.0" y2="500.0"/>
+<line x1="1000.0" y1="500.0" x2="1000.0" y2="600.0"/>
+<line x1="1000.0" y1="600.0" x2="1000.0" y2="700.0"/>
+<line x1="1000.0" y1="700.0" x2="1000.0" y2="800.0"/>
+<line x1="900.0" y1="900.0" x2="1000.0" y2="900.0"/>
+<line x1="1000.0" y1="800.0" x2="1000.0" y2="900.0"/>
+<line x1="900.0" y1="1000.0" x2="1000.0" y2="1000.0"/>
+<line x1="1000.0" y1="900.0" x2="1000.0" y2="1000.0"/>
+
+<line x1="0" y1="0" x2="1000" y2="0"/>
+<line x1="0" y1="0" x2="0" y2="1000"/>
+</svg>
